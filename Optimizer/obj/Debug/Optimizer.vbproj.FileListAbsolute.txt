@@ -1,0 +1,11 @@
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\bin\Debug\Optimizer.exe.config
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\bin\Debug\Optimizer.exe
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\bin\Debug\Optimizer.pdb
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\bin\Debug\Optimizer.xml
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.vbprojAssemblyReference.cache
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.frmMain.resources
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.Resources.resources
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.vbproj.GenerateResource.cache
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.exe
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.xml
+C:\Users\john\source\repos\Nikko_Optimizer\Optimizer\obj\Debug\Optimizer.pdb
